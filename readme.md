@@ -1,3 +1,1 @@
-# GitHub Coding Agent
-
-This project is a GitHub coding agent that automates repository management. It responds to issues by generating valid JSON output containing file changes. The agent can create, edit, and modify files such as README, HTML, CSS, JavaScript, and more. It follows strict rules to produce non-empty, properly escaped content. The project is designed to assist developers by handling routine code generation and documentation tasks.
+# โปรเจกต์\n\nนี่คือโปรเจกต์ตัวอย่าง\n\n## การติดตั้ง\n\n```\n# คำสั่งติดตั้ง\n```\n\n## การใช้งาน\n\nอธิบายวิธีการใช้งานโปรเจกต์\n\n## ผู้ร่วมพัฒนา\n\n- ผู้พัฒนา A\n- ผู้พัฒนา B\n
